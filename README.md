@@ -1,1 +1,4 @@
-# master_thesis_paper
+# Estimating the effect of Mexican cartel-violence on Human Capital Accumulation
+
+
+Can drug-cartel conflicts affect human capital accumulation? This thesis explores the effect of cartel-violence on children’s school grades and school attendance. Mexico’s new wave of War on Drugs in 2007 started a period of turf wars against the government and between cartels fighting for the municipalities’ control. The two main hypotheses are: i) Schools in municipalities that suffered drug-homicides and violence during the War on Drugs attained lower grades than schools in similar control municipalities; ii) The War on Drugs in Mexico decreased children' attendance to schools situated in drug-violent municipalities. The results suggest that going to school in a municipality with-drug-related homicides reduces the children's attendance by 0.3%.
